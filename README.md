@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gitalus" alt="gitalus" /></a> </p>
 
-- 🔭 I’m currently working on [Serenity](https://proyecto-4geeks.vercel.app) (small group project)
+- 🔭 I’m currently looking for a job
 
 - 🌱 I’m currently learning **Algorithms and Data Structures**
 
