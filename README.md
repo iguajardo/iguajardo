@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently looking for a job
 
-- 🌱 I’m currently learning **Algorithms and Data Structures**
+- 🌱 I’m currently learning **Algorithms and Data Structures**, **AWS** and more
 
 - 👯 I’m looking to collaborate on **Web projects**
 
