@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at Pinflag
 
-- 🌱 I’m currently learning **Algorithms and Data Structures**, **AWS** and more
+- 🌱 I’m currently learning **Backend**, **Cloud Technologies** and more
 
 - 👯 I’m looking to collaborate on **Web projects**
 
