@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Web projects**
 
-- 💬 Ask me about **Python, JavaScript, React and Competitive Programming**
+- 💬 Ask me about **Python, JavaScript, React, Nodejs, Backend and more**
 
 - 📫 How to reach me **italog.penaloza@gmail.com**
 
