@@ -1,9 +1,6 @@
 <h1 align="center">Hi, I'm Italo Guajardo</h1>
 <h3 align="center">A Back-end Developer from Chile</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitalus&layout=compact)
-
-
 - 🔭 I’m currently working at Pinflag
 
 - 🌱 I’m currently learning **Backend**, **Cloud Technologies** and more
@@ -13,6 +10,8 @@
 - 📫 How to reach me **italog.penaloza@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/italo-guajardo-peñaloza/](https://www.linkedin.com/in/italo-guajardo-peñaloza/)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
