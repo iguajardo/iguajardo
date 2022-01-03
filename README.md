@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at Pinflag
 
-- 🌱 I’m currently learning **Backend**, **Cloud Technologies** and more
+- 🌱 I’m currently learning **Go**, **Cloud Technologies** and more
 
 - 💬 Ask me about **Python, JavaScript, React, Nodejs, Backend and more**
 
