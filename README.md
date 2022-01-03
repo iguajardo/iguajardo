@@ -15,4 +15,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitalus)
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gitalus" alt="gitalus" />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=gitalus&show_icons=true&theme=radical" alt="gitalus" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=gitalus&show_icons=true&theme=radical" alt="gitalus" />
