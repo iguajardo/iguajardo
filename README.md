@@ -1,8 +1,7 @@
-<h1 align="center">Hi 👋, I'm Italo Guajardo</h1>
-<h3 align="center">A Full-Stack Developer from Chile</h3>
+<h1 align="center">Hi, I'm Italo Guajardo</h1>
+<h3 align="center">A Back-end Developer from Chile</h3>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitalus&layout=compact)
-
 
 
 - 🔭 I’m currently working at Pinflag
