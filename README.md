@@ -11,6 +11,8 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/italo-guajardo-peñaloza/](https://www.linkedin.com/in/italo-guajardo-peñaloza/)
 
+---
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitalus&layout=compact)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gitalus&show_icons=true&locale=en" alt="gitalus" /></p>
