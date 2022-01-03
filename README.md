@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/italo-guajardo-peñaloza/](https://www.linkedin.com/in/italo-guajardo-peñaloza/)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitalus&layout=compact)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
