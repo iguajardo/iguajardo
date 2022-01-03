@@ -13,7 +13,7 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitalus&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitalus)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gitalus&show_icons=true&locale=en" alt="gitalus" /></p>
 
