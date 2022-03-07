@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Italo Guajardo</h1>
 <h3 align="center">A Back-end Developer from Chile</h3>
 
-- 🔭 I’m currently working at Pinflag
+- 🔭 I’m currently working at NTT Data
 
 - 🌱 I’m currently learning **Go**, **Cloud Technologies** and more
 
