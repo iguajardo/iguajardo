@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at NTT Data
 
-- 🌱 I’m currently learning **JAVA**, **Go**, **Cloud Technologies** and more
+- 🌱 I’m currently learning **Java**, **Go**, **Cloud Technologies** and more
 
 - 💬 Ask me about **Python, JavaScript, React, Nodejs, Nestjs, Backend and more**
 
