@@ -10,6 +10,7 @@
 - 📫 How to reach me **italog.penaloza@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/italo-guajardo-peñaloza/](https://www.linkedin.com/in/italo-guajardo-peñaloza/)
+
 (**My current portfolio is outdated, because I'm working as a backend developer I don't have much to share or the time to do something out of work**)
 
 ---
