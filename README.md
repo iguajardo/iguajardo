@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working at NTT Data
 
-- 🌱 I’m currently learning **Java** and more
+- 🌱 I’m currently learning **Golang, C++, Game Engines** and more
 
-- 💬 Ask me about **Python, JavaScript, Nodejs, Nestjs, Go, Cloud Technologies Backend and more**
+- 💬 Ask me about **Java, Python, JavaScript, Nodejs, Nestjs, Go, Cloud Technologies Backend in general and more**
 
 - 📫 How to reach me **italog.penaloza@gmail.com**
 
