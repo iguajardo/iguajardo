@@ -16,7 +16,7 @@
 ---
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=iguajarp&theme=radical" alt="iguajarp" />
-
+<!--
 <img src="https://github-readme-stats.vercel.app/api?username=iguajarp&show_icons=true&theme=radical" alt="iguajarp" />
-
+-->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iguajarp&theme=radical" alt="iguajarp" />
