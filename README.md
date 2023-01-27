@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Italo Guajardo</h1>
 <h3 align="center">A Back-end Developer from Chile</h3>
 
-- 🔭 I’m currently working at NTT Data Europe & LATAM as a Full-stack developer with Angular and Spring Boot
+- 🔭 I’m currently working at SMU as a Backend developer with Nodejs, Typescript and Express
 
 - 🌱 I’m currently learning **Rust, C++, Game Engines** and more
 
