@@ -12,13 +12,3 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/italo-guajardo-peñaloza/](https://www.linkedin.com/in/italo-guajardo-peñaloza/)
 
 (**My current portfolio is outdated, because I'm working as a backend developer I don't have much to share or the time to do something out of work**)
-
----
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iguajarp&theme=radical" alt="iguajarp" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iguajarp&theme=radical" alt="iguajarp" />
-  <!--
-  <img src="https://github-readme-stats.vercel.app/api?username=iguajarp&show_icons=true&theme=radical" alt="iguajarp" />
-  -->
-</div>
