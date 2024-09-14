@@ -9,6 +9,6 @@
 
 - 📫 How to reach me **italog.penaloza@gmail.com**
 
-- 📄 Know about my experiences [[https://www.linkedin.com/in/italo-guajardo-peñaloza/](https://www.linkedin.com/in/italo-guajardo-peñaloza/)]
+- 📄 Know about my experiences <a href="https://www.linkedin.com/in/italo-guajardo-peñaloza/" target="_blank">Linkedin</a>
 
 (**My current portfolio is outdated, because I'm working as a backend developer I don't have much to share or the time to do something out of work**)
